@@ -2,5 +2,5 @@
 
 --- 
 
-<h2>🦄 Autor</h2>
-Augusto E.
+<h3>🦄 Autor</h3>
+<p>Augusto E.</p>
